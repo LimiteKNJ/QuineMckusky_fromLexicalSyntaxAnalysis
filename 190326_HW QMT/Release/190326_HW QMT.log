@@ -1,0 +1,11 @@
+﻿  SyntaxAnalysis.c
+c:\users\kuoc1\onedrive\programming codes\c\190326_hw qmt\190326_hw qmt\syntaxanalysis.c(12): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\kuoc1\onedrive\programming codes\c\190326_hw qmt\190326_hw qmt\syntaxanalysis.c(182): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\kuoc1\onedrive\programming codes\c\190326_hw qmt\190326_hw qmt\syntaxanalysis.c(195): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\kuoc1\onedrive\programming codes\c\190326_hw qmt\190326_hw qmt\syntaxanalysis.c(212): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  코드를 생성하고 있습니다.
+  0 of 30 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  190326_HW QMT.vcxproj -> C:\Users\kuoc1\OneDrive\Programming Codes\C\190326_HW QMT\Release\190326_HW QMT.exe
